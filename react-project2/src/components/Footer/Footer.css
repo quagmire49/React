@@ -1,0 +1,12 @@
+.footer{
+  height:15vh;
+  width:100%;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(15, 34, 36);
+  font-size: 25px;
+  color: azure;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+}
